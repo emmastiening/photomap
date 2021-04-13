@@ -1,7 +1,7 @@
 # Photomap
 A Leaflet map that reads data from Google Sheets.  
 
-Created as an example for [GEOG 4046](https://geog4046.github.io).  
+Created for Assignment 11 GEOG 4046 (https://emmastiening.github.io/photomap/).  
 
 Each row in the sheet will appear as a marker on the map. When the marker is clicked, a popup will appear showing information about the location, taken from the columns of the spreadsheet.  
 
